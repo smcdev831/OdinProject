@@ -22,3 +22,11 @@ li {
   display: inline-block;
   text-align: center;
 }
+
+li a {
+  float: left;
+}
+
+nav, button {
+  background: rgb(242,242,242);
+}
